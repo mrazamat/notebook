@@ -8,3 +8,5 @@
 8. Использование выражений в запросах
 9. Функции для работы со строками
 10. Использование функций CASE, CAST и DECODE в запросах
+
+[https://www.youtube.com/watch?v=YufocuHbYZo](https://www.youtube.com/watch?v=YufocuHbYZo)
